@@ -441,9 +441,18 @@
           </ul>
         <h3>Issues with this board</h3>
         <ul>
-            <li>Heat generation problem of FETs</li>
-            <li>Poor inrush current protection by load switch circuit</li>
-          </ul>
+          <li>Heat generation problem of FETs</li>
+          <li>Poor inrush current protection by load switch circuit</li>
+        </ul>
+        <h3>References</h3>
+        <ul>
+          <li> 4-Parallel Servo Motor Control with FT4232H MINI MODULE
+            <ul>
+              <li> <a href=""https://2019.robocup.org/downloads/program/BestmannEtAl2019.pdf">Bestmann, Marc & Güldenstein, Jasper & Zhang, Jianwei. (2019). High-Frequency Multi Bus Servo and Sensor Communication Using the Dynamixel Protocol. </a></li>
+              <li> Wolfgang CORE : https://github.com/bit-bots/bit_foot</li>
+             </ul>
+          </li>
+        </ul>
       </p>
     <h2>Contact</h2>
     <p>
