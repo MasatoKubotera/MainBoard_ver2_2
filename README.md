@@ -449,7 +449,7 @@
           <li> 4-Parallel Servo Motor Control with FT4232H MINI MODULE
             <ul>
               <li> <a href=""https://2019.robocup.org/downloads/program/BestmannEtAl2019.pdf">Bestmann, Marc & Güldenstein, Jasper & Zhang, Jianwei. (2019). High-Frequency Multi Bus Servo and Sensor Communication Using the Dynamixel Protocol. </a></li>
-              <li> Wolfgang CORE : https://github.com/bit-bots/bit_foot</li>
+              <li> Wolfgang CORE : https://github.com/bit-bots/wolfgang_core</li>
              </ul>
           </li>
         </ul>
